@@ -13,3 +13,6 @@ LeetCode
 
 
 ### LeetCode Database
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](Database/Big_Countries/Big_Countries.sql)|Easy|
