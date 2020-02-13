@@ -1,8 +1,7 @@
 [LeetCode](https://leetcode.com/)
 ========
 
-### LeetCode Algorithm
-
+### Algorithms
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -11,8 +10,7 @@
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
 
 
-
-### LeetCode Database
+### Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](Database/Big_Countries/Big_Countries.sql)|Easy|
