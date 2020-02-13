@@ -1,4 +1,4 @@
-[![](./LeetCode_icon.png)](https://leetcode.com/)
+[LeetCode](https://leetcode.com/)
 ========
 
 ### LeetCode Algorithm
