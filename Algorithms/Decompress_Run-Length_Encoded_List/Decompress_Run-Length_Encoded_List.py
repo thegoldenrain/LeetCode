@@ -7,6 +7,6 @@ class Solution:
             for j in range(nums[i]):
                 newList.append(nums[i + 1]) 
                 
-            i = i + 2
+            i += 2
             
         return newList
