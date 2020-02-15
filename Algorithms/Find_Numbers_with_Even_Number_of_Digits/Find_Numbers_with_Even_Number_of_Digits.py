@@ -6,11 +6,11 @@ class Solution:
             check = 0
             
             while num > 0:
-                num = num // 10
-                check = check + 1
+                num //= 10
+                check += 1
                 
             if check % 2 == 0:
-                count = count + 1
+                count += 1
                     
         return count
 
