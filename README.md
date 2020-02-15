@@ -17,4 +17,5 @@
 ### Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/employees-earning-more-than-their-managers/)|[Mysql](./Database/Employees_Earning_More_Than_Their_Managers/Employees_Earning_More_Than_Their_Managers.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](Database/Big_Countries/Big_Countries.sql)|Easy|
