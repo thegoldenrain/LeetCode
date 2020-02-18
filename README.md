@@ -8,6 +8,7 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Algorithms/Reverse_String/Reverse_String.py), [C++](./Algorithms/Reverse_String/Reverse_String.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Algorithms/Fizz_Buzz/Fizz_Buzz.py), [C++](./Algorithms/Fizz_Buzz/Fizz_Buzz.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Algorithms/To_Lower_Case/To_Lower_Case.py)|Easy|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](./Algorithms/Goat_Latin/Goat_Latin.py)|Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](./Algorithms/Divisor_Game/Divisor_Game.py), [C++](./Algorithms/Divisor_Game/Divisor_Game.cpp)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](./Algorithms/Defanging_an_IP_Address/Defanging_an_IP_Address.py), [C++](./Algorithms/Defanging_an_IP_Address/Defanging_an_IP_Address.cpp)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./Algorithms/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)|Easy|
