@@ -18,7 +18,7 @@
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](./Algorithms/Maximum_69_Number/Maximum_69_Number.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
 
-Solved: 9
+Solved: 12
 
 ### Database
 | # | Title | Solution | Difficulty |
