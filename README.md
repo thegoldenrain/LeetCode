@@ -5,6 +5,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Algorithms/Roman_to_Integer/Roman_to_Integer.py), [C++](./Algorithms/Roman_to_Integer/Roman_to_Integer.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Algorithms/Reverse_String/Reverse_String.py), [C++](./Algorithms/Reverse_String/Reverse_String.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Algorithms/Fizz_Buzz/Fizz_Buzz.py), [C++](./Algorithms/Fizz_Buzz/Fizz_Buzz.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Algorithms/To_Lower_Case/To_Lower_Case.py)|Easy|
