@@ -9,6 +9,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./Algorithms/Reverse_Words_in_a_String/Reverse_Words_in_a_String.py)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array/Find_Minimum_in_Rotated_Sorted_Array.py), [C++](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array/Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array_II/Find_Minimum_in_Rotated_Sorted_Array_II.py), [C++](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array_II/Find_Minimum_in_Rotated_Sorted_Array_II.cpp)|Hard|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Algorithms/Min_Stack/Min_Stack.py)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Algorithms/Reverse_String/Reverse_String.py), [C++](./Algorithms/Reverse_String/Reverse_String.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Algorithms/Fizz_Buzz/Fizz_Buzz.py), [C++](./Algorithms/Fizz_Buzz/Fizz_Buzz.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Algorithms/To_Lower_Case/To_Lower_Case.py)|Easy|
