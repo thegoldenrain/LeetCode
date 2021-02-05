@@ -22,8 +22,9 @@
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](./Algorithms/Maximum_69_Number/Maximum_69_Number.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./Algorithms/Kids_With_the_Greatest_Number_of_Candies/Kids_With_the_Greatest_Number_of_Candies.py), [C++](./Algorithms/Kids_With_the_Greatest_Number_of_Candies/Kids_With_the_Greatest_Number_of_Candies.cpp)|Easy|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Algorithms/Richest_Customer_Wealth/Richest_Customer_Wealth.py), [C++](./Algorithms/Richest_Customer_Wealth/Richest_Customer_Wealth.cpp)|Easy|
 
-Solved: 17
+Solved: 18
 
 ### Database
 | # | Title | Solution | Difficulty |
