@@ -5,6 +5,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./Algorithms/Palindrome_Number/Palindrome_Number.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Algorithms/Roman_to_Integer/Roman_to_Integer.py), [C++](./Algorithms/Roman_to_Integer/Roman_to_Integer.cpp)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./Algorithms/Reverse_Words_in_a_String/Reverse_Words_in_a_String.py)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array/Find_Minimum_in_Rotated_Sorted_Array.py), [C++](./Algorithms/Find_Minimum_in_Rotated_Sorted_Array/Find_Minimum_in_Rotated_Sorted_Array.cpp)|Medium|
